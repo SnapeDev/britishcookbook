@@ -1,0 +1,20 @@
+/* Footer.css */
+.british-footer {
+  background-color: #ffffff; /* Dark background for contrast */
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+
+  width: 100%;
+}
+
+.heart {
+  color: #f32a41;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+
+/* You can add more styling here to include British symbols or colors */
